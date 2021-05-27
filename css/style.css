@@ -1,8 +1,8 @@
 body {
   font-family: "Spartan", sans-serif;
   font-size: 15px;
-  background: url(/images/bg-pattern-bottom-mobile.svg) no-repeat right bottom,
-    url(/images/bg-pattern-top-mobile.svg) no-repeat;
+  background: url(./images/bg-pattern-bottom-mobile.svg) no-repeat right bottom,
+    url(./images/bg-pattern-top-mobile.svg) no-repeat;
 }
 
 :root {
@@ -136,9 +136,9 @@ header p {
 @media screen and (min-width: 780px) {
   body {
     overflow: hidden;
-    background: url(/images/bg-pattern-bottom-desktop.svg) no-repeat right
+    background: url(./images/bg-pattern-bottom-desktop.svg) no-repeat right
         bottom,
-      url(/images/bg-pattern-top-desktop.svg) no-repeat;
+      url(./images/bg-pattern-top-desktop.svg) no-repeat;
     display: flex;
     align-items: center;
   }

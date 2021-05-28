@@ -118,7 +118,7 @@ header p {
   font-weight: 400;
   font-size: 0.8em;
   line-height: 1.8em;
-  padding: 10px 40px;
+  padding: 10px 30px;
   text-align: left;
   padding-bottom: 30px;
 }
@@ -148,7 +148,7 @@ header p {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    padding: 60px 150px;
+    padding: 80px 200px;
   }
 
   header {

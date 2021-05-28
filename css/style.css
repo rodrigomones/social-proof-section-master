@@ -141,6 +141,7 @@ header p {
       url('../images/bg-pattern-top-desktop.svg') no-repeat;
     display: flex;
     align-items: center;
+    max-width: 1440px;
   }
 
   .container {
